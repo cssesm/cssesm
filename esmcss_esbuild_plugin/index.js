@@ -10,8 +10,9 @@ export function esmcss_esbuild_plugin_() {
 		setup(build) {
 			build.onLoad(
 				{ filter: /\.css\.(js|ts)$/ },
-				async ({ path })=>{
-					const contents = await import(path).then(mod=>mod.default())
+				async (config)=>{
+					const { path, suffix } = config
+					const contents = await import(path + (suffix ?? '')).then(mod=>mod.default())
 					return { contents, loader: 'css' }
 				}
 			)

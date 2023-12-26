@@ -1,5 +1,11 @@
 # esmcss
 
+## 0.1.3
+
+### Patch Changes
+
+- esmcss*esbuild_plugin*: fix: add suffix (url search params) to import
+
 ## 0.1.2
 
 ### Patch Changes
