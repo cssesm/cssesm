@@ -1,5 +1,11 @@
 # esmcss
 
+## 0.1.4
+
+### Patch Changes
+
+- esbuild: ^0.19.10 -> ^0.19.11
+
 ## 0.1.3
 
 ### Patch Changes
