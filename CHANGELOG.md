@@ -1,5 +1,11 @@
 # esmcss
 
+## 0.1.8
+
+### Patch Changes
+
+- tsx: ^4.7.0 -> ^4.7.1
+
 ## 0.1.7
 
 ### Patch Changes
