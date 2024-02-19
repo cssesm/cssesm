@@ -33,7 +33,7 @@ import './component.css.js'
 ```
 [//]: @formatter:on
 
-css.ts file
+component.css.ts
 
 [//]: @formatter:off
 ```ts

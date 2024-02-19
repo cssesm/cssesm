@@ -1,5 +1,11 @@
 # esmcss
 
+## 0.1.10
+
+### Patch Changes
+
+- README: component.css.ts
+
 ## 0.1.9
 
 ### Patch Changes
