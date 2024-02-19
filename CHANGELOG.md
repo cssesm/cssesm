@@ -1,5 +1,11 @@
 # esmcss
 
+## 0.2.1
+
+### Patch Changes
+
+- index.js: fix: append /index.js to module exports
+
 ## 0.2.0
 
 ### Minor Changes

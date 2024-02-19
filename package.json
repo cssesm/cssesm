@@ -1,6 +1,6 @@
 {
 	"name": "esmcss",
-	"version": "0.2.0",
+	"version": "0.2.1",
 	"description": "Import .css.ts/.css.js functions & focused css helper classes from ES Modules using esbuild",
 	"keywords": [
 		"css",
@@ -51,8 +51,7 @@
 		"uvu": "^0.5.6"
 	},
 	"publishConfig": {
-		"access": "public",
-		"cache": ".npm"
+		"access": "public"
 	},
 	"sideEffects": false
 }
