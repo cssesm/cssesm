@@ -1,19 +1,19 @@
 {
 	"name": "esmcss",
-	"version": "0.1.10",
+	"version": "0.2.0",
 	"description": "Import .css.ts/.css.js functions & focused css helper classes from ES Modules using esbuild",
 	"keywords": [
 		"css",
 		"esm",
 		"esbuild"
 	],
-	"homepage": "https://github.com/esmcss/esmcss#readme",
+	"homepage": "https://github.com/esmfile/esmcss#readme",
 	"bugs": {
-		"url": "https://github.com/esmcss/esmcss/issues"
+		"url": "https://github.com/esmfile/esmcss/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/esmcss/esmcss.git"
+		"url": "https://github.com/esmfile/esmcss.git"
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",

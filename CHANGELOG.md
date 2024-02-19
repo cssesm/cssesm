@@ -1,5 +1,11 @@
 # esmcss
 
+## 0.2.0
+
+### Minor Changes
+
+- github: esmcss/esmcss→esmfile/esmcss
+
 ## 0.1.10
 
 ### Patch Changes
