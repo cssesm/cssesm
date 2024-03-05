@@ -1,6 +1,6 @@
 {
 	"name": "esmcss",
-	"version": "0.2.2",
+	"version": "0.2.3",
 	"description": "Import .css.ts/.css.js functions & focused css helper classes from ES Modules using esbuild",
 	"keywords": [
 		"css",

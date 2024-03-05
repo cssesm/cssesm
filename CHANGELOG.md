@@ -1,5 +1,11 @@
 # esmcss
 
+## 0.2.3
+
+### Patch Changes
+
+- reload: fix: update module with new contents
+
 ## 0.2.2
 
 ### Patch Changes
