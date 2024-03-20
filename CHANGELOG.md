@@ -1,5 +1,11 @@
 # esmcss
 
+## 0.2.5
+
+### Patch Changes
+
+- package.json: author: url,email
+
 ## 0.2.4
 
 ### Patch Changes

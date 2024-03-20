@@ -1,6 +1,6 @@
 {
 	"name": "esmcss",
-	"version": "0.2.4",
+	"version": "0.2.5",
 	"description": "Import .css.ts/.css.js functions & focused css helper classes from ES Modules using esbuild",
 	"keywords": [
 		"css",
@@ -16,7 +16,11 @@
 		"url": "https://github.com/esmfile/esmcss.git"
 	},
 	"license": "Apache-2.0",
-	"author": "Brian Takita",
+	"author": {
+		"name": "Brian Takita",
+		"url": "https://briantakita.me",
+		"email": "info+ctx-core-esmcss@briantakita.me"
+	},
 	"type": "module",
 	"files": [
 		"*.d.ts",
