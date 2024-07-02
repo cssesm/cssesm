@@ -1,6 +1,6 @@
 {
 	"name": "esmcss",
-	"version": "0.2.11",
+	"version": "0.2.12",
 	"description": "Import .css.ts/.css.js functions & focused css helper classes from ES Modules using esbuild",
 	"keywords": [
 		"css",
@@ -45,7 +45,7 @@
 		"disable:test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"esbuild": "^0.21.5"
+		"esbuild": "^0.23.0"
 	},
 	"devDependencies": {
 		"c8": "^10.1.2",
